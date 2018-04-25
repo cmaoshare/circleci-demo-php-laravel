@@ -8,5 +8,5 @@ interface StringConverter
      * @param $string
      * @return string
      */
-    publictest function convert($string);
+    public function convert($string);
 }
