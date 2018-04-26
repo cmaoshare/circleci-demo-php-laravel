@@ -4,6 +4,7 @@
 
 ### Setup
 
+test
 You can setup this sample manually or use [Vagrant](https://www.vagrantup.com/) to automatically set up a development environment for you.
 
 #### Manual
